@@ -1,10 +1,4 @@
-'''
-This is the module you'll submit to the autograder.
 
-There are several function definitions, here, that raise RuntimeErrors.  You should replace
-each "raise RuntimeError" line with a line that performs the function specified in the
-function's docstring.
-'''
 
 import numpy as np
 import soundfile as sf
