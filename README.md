@@ -1,11 +1,12 @@
-# Signal Processing
+# Quick View of Results
+
+To see the results, download mp_notebook(2).html. This file has been pre-processed and can be run locally.
+
+
+## Signal Processing
 
 
 This project is dedicated to the implementation of various signal processing methods, using Jupyter Notebooks as a platform. It includes tools and examples for signal analysis and processing, highlighting techniques such as Fourier transformations, signal generation, and visualization tools. The file `mp_notebook.ipynb` provides practical examples to demonstrate these techniques with sample data, aiding in effective signal analysis.
-
-## Quick View of Results
-
-To see the results, download mp_notebook(2).html. This file has been pre-processed and can be run locally.
 
 ## Key Features
 
