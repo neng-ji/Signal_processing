@@ -1,0 +1,6 @@
+soundfile
+gradescope-utils
+numpy
+h5py
+librosa
+
