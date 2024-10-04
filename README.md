@@ -1,25 +1,26 @@
 # Signal Processing
 
-This project focuses on implementing various signal processing techniques. It provides tools and examples for analyzing and processing signals directly in Jupyter Notebooks. Features include Fourier transformations, signal generation, and visualization tools for plotting and analyzing signals. The `mp_notebook.ipynb` file demonstrates practical applications of these techniques using sample data to showcase how to work with and analyze signals effectively.
+
+This project is dedicated to the implementation of various signal processing methods, using Jupyter Notebooks as a platform. It includes tools and examples for signal analysis and processing, highlighting techniques such as Fourier transformations, signal generation, and visualization tools. The file `mp_notebook.ipynb` provides practical examples to demonstrate these techniques with sample data, aiding in effective signal analysis.
 
 ## Quick View of Results
 
-Download mp_notebook(2).html, the notebook is already processed, and open it locally to run the file.
+To see the results, download mp_notebook(2).html. This file has been pre-processed and can be run locally.
 
-## Waveform or Signal 
+## Key Features
 
-sf.read('visible.wav')
+Reading Waveforms or Signals: 
 
-## Highlighted:
+    sf.read('visible.wav')
+ 
+## Featured Techniques:
+Fourier Transform
 
- Fourier transform
+Griffin-Lim Phase Reconstruction
 
-Griffin-Lim Phase reconstruction
-
-Stretch the frequency dimension and time dimension
+Frequency and Time Dimension Stretching
 
 ## Run this project
-No downloads or installations are required beyond having a Jupyter Notebook environment available. Simply clone the repository from GitHub using the following command:
-
+To begin, no additional downloads or installations are needed apart from having a Jupyter Notebook setup. Simply clone the GitHub repository using the following command:
 ```bash
 git clone https://github.com/neng-ji/Signal_processing.git
